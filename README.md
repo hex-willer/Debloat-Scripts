@@ -1,4 +1,4 @@
-# Debloat Scripts for
+# Debloat Scripts
 
 # Android
 
