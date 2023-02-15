@@ -1,6 +1,6 @@
-# Debloat Scripts for Linux 
+# Debloat Scripts for
 
-#Android
+# Android
 
 This repo will be updated with various debloat scripts of various android devices
 
@@ -10,7 +10,7 @@ url for Package name app : https://play.google.com/store/apps/details?id=com.csd
 to reverse an uninstalled app use 
 "adb shell cmd package install-existing <pacakage_name>"
 
--------------------------------------------------------------------------------------------------------------------------------------------------
-#Mint
+
+# Mint
 
 give exec permission to "debloat.sh" file and run with "./debloat.sh" to debloat the distro 
