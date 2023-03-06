@@ -1,4 +1,3 @@
-
 adb shell pm uninstall --user 0 com.samsung.android.app.settings.bixby
 adb shell pm uninstall --user 0 com.samsung.android.rubin.app
 adb shell pm uninstall --user 0 com.samsung.discover
