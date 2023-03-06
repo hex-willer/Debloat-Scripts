@@ -51,3 +51,4 @@ adb shell pm uninstall --user 0 com.samsung.android.svoiceime
 adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
 adb shell pm uninstall --user 0 com.google.android.gms.location.history
 adb shell pm uninstall --user 0 com.netflix.partner.activation
+adb shell pm uninstall --user 0 com.google.android.feedback
