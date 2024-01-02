@@ -8,7 +8,7 @@ To know the list of package installed in ur phone use Package Name App
 url for Package name app : https://play.google.com/store/apps/details?id=com.csdroid.pkg
 
 to reverse an uninstalled app use 
-"adb shell cmd package install-existing <pacakage_name>"
+"adb shell pm install-existing --user 0 <pacakage_name>"
 
 
 # Mint
